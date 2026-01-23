@@ -142,4 +142,6 @@ async def predictRouteClient(request: Request):
 
 # Main entry point to start the FastAPI server
 if __name__ == "__main__":
-    app_run(app, host=APP_HOST, port=APP_PORT)
+    import uvicorn
+    uvicorn.run("app:app", host="0.0.0.0",port=5000)
+    
