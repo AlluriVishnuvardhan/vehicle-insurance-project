@@ -1,2 +1,3 @@
 AKIAXYJZCCQDDPB4EWE5
 2Su+xbqV/smddwSuAR8b2k9c085/uS/n0WDAjUuZ
+ecr name vehicleproj url:533232489478.dkr.ecr.us-east-1.amazonaws.com/vehicleproj
